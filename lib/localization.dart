@@ -27,7 +27,7 @@ class _LocalizationState extends State<Localization> {
               title: Text('message'.tr),
               subtitle: Text('name'.tr),
             ),
-            SizedBox(
+            const SizedBox(
               height: 50,
             ),
             Row(
